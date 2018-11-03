@@ -1,3 +1,4 @@
-# Merge-sor
-Merge sort 插入排序
+# Merge-sort
+   归并排序
+   
 
